@@ -3,7 +3,7 @@ Codes written while practicing programming with Codeit lectures.
 
 Codeit website link: https://www.codeit.kr/dashboard  
 
-###Contents
+### Contents
 **Programs made during lectures**
 * Objective-Oriented Programming
 * Algorithm
